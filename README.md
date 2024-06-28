@@ -150,3 +150,6 @@ Shipping
 Sentimental analysis
 ![sentimental](https://github.com/SasiLeburi/Brazilian-E-Commerce-Public-Dataset-by-Olist/assets/142025947/be00abe9-6605-4909-b3dc-34cffa49049e)
 
+Customer analysis
+![customer](https://github.com/SasiLeburi/Brazilian-E-Commerce-Public-Dataset-by-Olist/assets/142025947/60da534d-3baa-4f37-b246-b1b71369e245)
+
