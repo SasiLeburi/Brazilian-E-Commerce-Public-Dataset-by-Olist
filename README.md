@@ -148,4 +148,5 @@ Shipping
 ![image](https://github.com/SasiLeburi/Brazilian-E-Commerce-Public-Dataset-by-Olist/assets/142025947/75ec0907-ee30-4a61-831f-85b37a16c2a3)
 
 Sentimental analysis
+![sentimental](https://github.com/SasiLeburi/Brazilian-E-Commerce-Public-Dataset-by-Olist/assets/142025947/be00abe9-6605-4909-b3dc-34cffa49049e)
 
