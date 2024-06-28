@@ -135,3 +135,17 @@ Here is the overall Dashboard:
 The individua pages of the report are as follows: Overview
 ![image](https://github.com/SasiLeburi/Brazilian-E-Commerce-Public-Dataset-by-Olist/assets/142025947/700d0352-12a8-44ff-b04f-de0111ab88cb)
 
+Sales
+![image](https://github.com/SasiLeburi/Brazilian-E-Commerce-Public-Dataset-by-Olist/assets/142025947/50135381-70b0-481c-a60f-7b825c4b0c70)
+
+Products
+![image](https://github.com/SasiLeburi/Brazilian-E-Commerce-Public-Dataset-by-Olist/assets/142025947/ae25fb59-ba9d-4aeb-b3ae-738701477e39)
+
+Reviews
+![image](https://github.com/SasiLeburi/Brazilian-E-Commerce-Public-Dataset-by-Olist/assets/142025947/5f7742f5-622a-44a4-9749-46d3740b626e)
+
+Shipping
+![image](https://github.com/SasiLeburi/Brazilian-E-Commerce-Public-Dataset-by-Olist/assets/142025947/75ec0907-ee30-4a61-831f-85b37a16c2a3)
+
+Sentimental analysis
+
